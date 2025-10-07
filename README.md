@@ -37,3 +37,4 @@ The game features **wrap-around movement**, **dynamic speed control**, and **sou
    ```bash
    git clone https://github.com/your-username/snake-game.git
    cd snake-game
+2. **Or double click on **.exe** file located in dist folder
